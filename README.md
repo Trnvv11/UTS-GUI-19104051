@@ -12,3 +12,8 @@
 ![enter image description here](https://i.ibb.co/xHm8LYG/Capture4.png)
 ## Sesudah Clear Data
 ![enter image description here](https://i.ibb.co/xHm8LYG/Capture5.png)
+## Hapus
+## Sebelum Hapus
+![enter image description here](https://i.ibb.co/xHm8LYG/Capture6.png)
+## Setelah Hapus
+![enter image description here](https://i.ibb.co/xHm8LYG/Capture7.png)
