@@ -14,6 +14,10 @@
 ![enter image description here](https://i.ibb.co/xHm8LYG/Capture5.png)
 ## Hapus
 ## Sebelum Hapus
-![enter image description here](https://i.ibb.co/xHm8LYG/Capture6.png)
+![enter image description here](https://i.ibb.co/TrGmgQR/Capture6.png)
 ## Setelah Hapus
-![enter image description here](https://i.ibb.co/xHm8LYG/Capture7.png)
+![enter image description here](https://i.ibb.co/bvsgkgL/Capture7.png)
+
+
+## Perbaiki Codingan
+![enter image description here](https://i.ibb.co/9rc7vfz/Capture8.png)
